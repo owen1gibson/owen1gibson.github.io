@@ -1,0 +1,25 @@
+body {
+	background-color: WhiteSmoke;
+	font-family: helvetica;
+}
+h1 {
+	font-weight: bold;
+}
+h2 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+p {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding-left: 20px;
+	padding-right: 500px;
+}
+address {
+	margin-top: 20px;
+}
